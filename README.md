@@ -198,5 +198,5 @@ jobs:
 
 Video for setting up Azure with GitHub Actions:
 
-![Skaarmavbild 2022-10-07 kl  12 52 35](https://user-images.githubusercontent.com/67626018/194538015-be6767ea-2f66-4bb1-b6d0-a1c4be6cbe61.png)(https://www.youtube.com/watch?v=rXXtJpcVems)
+[![Skaarmavbild 2022-10-07 kl  12 52 35](https://user-images.githubusercontent.com/67626018/194538015-be6767ea-2f66-4bb1-b6d0-a1c4be6cbe61.png)(https://www.youtube.com/watch?v=rXXtJpcVems)
 
